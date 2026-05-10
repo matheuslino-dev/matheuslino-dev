@@ -98,22 +98,3 @@ Repository dedicated to backend studies, software architecture and APIs.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
-<p align="center">
-  <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @keyframes comer {
-        0%   { d: path("M50,10 A40,40 0 1,1 10,50 L50,50 L50,10 Z"); }
-        50%  { d: path("M50,10 A40,40 0 1,1 70,70 L50,50 L50,10 Z"); }
-        100% { d: path("M50,10 A40,40 0 1,1 10,50 L50,50 L50,10 Z"); }
-      }
-      .pacman {
-        fill: #FFD966;
-        animation: comer 0.6s infinite ease-in-out;
-      }
-    </style>
-    <path class="pacman" />
-    <!-- olho -->
-    <circle cx="30" cy="35" r="5" fill="#000" />
-  </svg>
-</p>
