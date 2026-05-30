@@ -100,7 +100,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=matheuslino-dev&theme=tokyonight&hide_border=false" />
 </div>
----
+
 
 # 🐍 Contribution Snake
 
