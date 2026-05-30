@@ -140,5 +140,5 @@ Repository dedicated to backend studies, software architecture and APIs.
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://banner-svg-vercel.vercel.app/footer.svg" width="100%" />
 </p>
