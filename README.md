@@ -16,93 +16,91 @@
   </a>
 </p>
 
+---
+
+# 👨‍💻 About Me
+
+- Python Developer focused on backend development and automation.
+- Currently working at **Itaú Unibanco** developing internal solutions and process automations.
+- Computer Science student passionate about software engineering and backend systems.
+- Interested in APIs, automation, scalable applications and clean architecture.
+- Continuously improving my skills through projects and practical development.
+
+---
+
+# 🚀 Current Goals
+
+- Improve my backend development skills with Python.
+- Build scalable APIs and real-world applications.
+- Contribute to open-source projects.
+- Grow professionally as a Software Developer.
+
+---
+
+# 🛠️ Technologies & Tools
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║           PLAYER ONE HAS ENTERED THE GAME            ║
-╚══════════════════════════════════════════════════════╝
-```
+  <!-- Languages -->
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
+  <img width="12" />
+
+  <!-- Frameworks & Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="fastapi logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
+  <img width="12" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+  <img width="12" />
+
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws logo" />
 
 </div>
 
 ---
 
-## 👾 About Me
-
-```python
-class MatheusLino:
-    name      = "Matheus Lino"
-    role      = "Python Developer"
-    company   = "Itaú Unibanco"
-    degree    = "Computer Science"
-    interests = ["Backend", "APIs", "Automation", "Clean Architecture"]
-    status    = "Building internal solutions and process automations 🚀"
-```
-
----
-
-## 🎮 Current Goals
-
-```
- QUEST LOG
- ══════════════════════════════════════════════════════
- ► Backend skills with Python ............ [██████████] MASTERING
- ► Build scalable APIs ................... [████████░░] IN PROGRESS
- ► Contribute to open-source ............. [█████░░░░░] IN PROGRESS
- ► Grow as a Software Developer .......... [████████░░] LEVELING UP
- ══════════════════════════════════════════════════════
-```
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="fastapi" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=matheuslino-dev&theme=tokyonight&hide_border=false" />
 </div>
 
----
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -114,44 +112,31 @@ class MatheusLino:
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-```
-┌─────────────────────────────────────────────────────┐
-│  🔹 Python Automation                               │
-│     Automation scripts for productivity             │
-│     and process optimization                        │
-├─────────────────────────────────────────────────────┤
-│  🔹 FastAPI REST API                                │
-│     Backend API with authentication                 │
-│     and full CRUD operations                        │
-├─────────────────────────────────────────────────────┤
-│  🔹 Backend Studies                                 │
-│     Software architecture, APIs                     │
-│     and backend patterns                            │
-└─────────────────────────────────────────────────────┘
-```
+## 🔹 Python Automation
+Automation scripts focused on productivity and process optimization using Python.
+
+## 🔹 FastAPI REST API
+Backend API project using FastAPI, authentication and CRUD operations.
+
+## 🔹 Backend Studies
+Repository dedicated to backend studies, software architecture and APIs.
 
 ---
 
-## 🌐 Contact
+# 🌐 Contact
 
-```
- 📧  matheuslinodossantos@hotmail.com
- 🎨  https://www.artstation.com/ilkini
-```
+- 📧 Email: **matheuslinodossantos@hotmail.com**
+- 🎨 Art Portfolio: **https://www.artstation.com/ilkini**
 
 ---
 
-<div align="center">
-
-```
 > "Programs must be written for people to read." – Harold Abelson
-```
 
-</div>
+---
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e3160&height=50&text=%3C%2F%3E%20crafted%20by%20Matheus%20Lino&fontSize=16&fontColor=c8cae8&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
