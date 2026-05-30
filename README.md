@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://banner-svg-vercel.vercel.app/banner.svg" width="100%" />
+  <img src="https://banner-svgread.vercel.app/banner.svg" width="100%" />
 </p>
 
 <!-- Badges -->
@@ -140,5 +140,5 @@ Repository dedicated to backend studies, software architecture and APIs.
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://banner-svg-vercel.vercel.app/footer.svg" width="100%" />
+  <img src="https://banner-svgread.vercel.app/footer.svg" width="100%" />
 </p>
