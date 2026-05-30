@@ -138,5 +138,5 @@ Repository dedicated to backend studies, software architecture and APIs.
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3160,100:4a4e7a&height=120&section=footer&text=%3C%2F%3E%20crafted%20by%20Matheus%20Lino&fontSize=16&fontColor=c8cae8&fontAlignY=75" />
 </p>
