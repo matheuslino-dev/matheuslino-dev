@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there%20👋%2C%20I'm%20Matheus%20Lino&fontSize=35&fontAlignY=35&animation=twinkling" />
+  <img src="https://banner-svg-vercel.vercel.app/banner.svg" width="100%" />
 </p>
 
 <!-- Badges -->
