@@ -6,13 +6,15 @@
 <!-- Badges -->
 <p align="center">
   <a href="mailto:matheuslinodossantos@hotmail.com">
-    <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Email-4a4e7a?style=for-the-badge&logoColor=c8cae8" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+
   <a href="https://www.artstation.com/ilkini" target="_blank">
-    <img src="https://img.shields.io/badge/-%F0%9F%8E%A8%20ArtStation-4a4e7a?style=for-the-badge&logoColor=c8cae8" />
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
   </a>
+
   <a href="https://github.com/matheuslino-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-%F0%9F%90%99%20GitHub-4a4e7a?style=for-the-badge&logoColor=c8cae8" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -138,5 +140,5 @@ Repository dedicated to backend studies, software architecture and APIs.
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://banner-svg-vercel.vercel.app/footer.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
